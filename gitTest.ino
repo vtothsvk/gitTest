@@ -5,6 +5,8 @@ void setup(){
     Serial.println("siz maj bit!");
     Serial.println("akafuka");
     Serial.println("Mehehehe");
+    Serial.println("new Message");
+    Serial.println("newBranch local");
 }
 
 void loop(){

@@ -4,6 +4,7 @@ void setup(){
     Serial.begin(115200);
     Serial.println("siz maj bit!");
     Serial.println("akafuka");
+    Serial.println("new Message");
 }
 
 void loop(){
